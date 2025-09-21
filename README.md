@@ -1,1 +1,1 @@
-# pr-test
+# 백준 (python)
